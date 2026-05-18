@@ -4,5 +4,5 @@
   "title": "Nueva Actualización Disponible!",
   "description": "Actualiza la última versión y obten las últimas funciones.",
   "buttonText": "ACTUALIZAR AHORA",
-  "buttonUrl": "https://bit.ly/49ZxN5A"
+  "buttonUrl": "https://t.me/anmodapks"
 }
