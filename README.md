@@ -1,8 +1,8 @@
 {
-  "versionName": "2.2.81",
-  "forceUpdate": false,
-  "title": "Nueva Actualización Disponible!",
-  "description": "Actualiza la última versión y obten las últimas funciones.",
-  "buttonText": "ACTUALIZAR AHORA",
-  "buttonUrl": "https://t.me/anmodapks"
+  "showDialog": true,
+  "expires": "01-10-2025",
+  "title": "UPDATE AVAILABLE",
+  "message": "Get the newest features and improvements.",
+  "UpdateButtonText": "DOWNLOAD",
+  "UpdateButtonUrl": "https://t.me/anmodapks"
 }
