@@ -1,8 +1,0 @@
-{
-  "showDialog": true,
-  "expires": "01-10-2025",
-  "title": "UPDATE AVAILABLE",
-  "message": "Get the newest features and improvements.",
-  "UpdateButtonText": "DOWNLOAD",
-  "UpdateButtonUrl": "https://t.me/anmodapks"
-}
