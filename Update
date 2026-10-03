@@ -1,8 +1,6 @@
 {
-  "showDialog": true,
-  "expires": "01-10-2025",
-  "title": "UPDATE AVAILABLE",
-  "message": "Get the newest features and improvements.",
-  "UpdateButtonText": "DOWNLOAD",
-  "UpdateButtonUrl": "https://t.me/anmodapks"
+  "latest_version": 23.0.0,
+  "Tittle": "New Update Available!",
+  "Message": "Please click the Update Now button to download the latest version. 👇",
+  "download_url": "https://t.me/ABModsOfficial"
 }
